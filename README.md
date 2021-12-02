@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá Mundo! Eu sou Gabriel Fialho
 
-<!--
-**XeiHaining/XeiHaining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Sou analista de RPA
+- 👨‍🎓 Superior em análise e desenvolvimento de sistemas
+- 📱 Estudando aplicações mobile
+- ✉️ Contate-me no email: gabrielfialho9754@gmail.com
+
+<div align="center">
+  <a href="https://github.com/XeiHaining">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XeiHaining&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeiHaining&layout=compact&langs_count=7&theme=merko"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
